@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intermediate Software Developer with 1+ years of experience developing websites<br>and creating databases. Motivated professional recognized by peers for my <br>effective problem-solving and analytical skills.  Looking to apply my experience with Data Storage<br>and Retrieval and Software Testing and Validation to discover new opportunities.<br>
+Intermediate programmer experienced in developing websites<br>and creating databases. Highly motivated recognized by peers for my <br>effective problem-solving and analytical skills. Looking to apply my experience with Data Storage<br>and Retrieval and Software Developing and Validation to discover new opportunities.<br>
 
 
 # 💻 Tech Stack:
