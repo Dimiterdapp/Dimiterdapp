@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intermediate programmer experienced in developing websites<br>and creating databases. Highly motivated recognized by peers for my <br>effective problem-solving and analytical skills. Looking to apply my experience with Data Storage<br>and Retrieval and Software Developing and Validation to discover new opportunities.<br>
+Junior programmer experienced in developing websites and creating databases. <br> Recognized for my effective problem-solving and analytical skills. <br> Looking to apply my experience with Data Storage and Retrieval <br> and Software Developing and Validation to discover new opportunities.
 
 
 # 💻 Tech Stack:
