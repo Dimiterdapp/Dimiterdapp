@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior programmer experienced in developing websites and creating databases. <br> Recognized for my effective problem-solving and analytical skills. <br> Looking to apply my experience with Data Storage and Retrieval <br> and Software Developing and Validation to discover new opportunities.
+Junior programmer experienced in developing websites and creating databases. <br> Highly motivated, recognized by peers for effective problem-solving and analytical skills. <br> Looking to apply my experience with Data Storage and Retrieval <br> and Software Developing and Validation to discover new opportunities.
 
 
 # 💻 Tech Stack:
